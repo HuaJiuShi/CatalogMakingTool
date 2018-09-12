@@ -3,7 +3,7 @@
 
 '''
 Software Instruction:
-使用python对文件目录进行索引，自动创建文件索引，并在Catalog文件夹中保存为*.xls以及*.txt文件
+使用python对文件目录进行索引，自动创建文件索引，并在Catalog文件夹中保存为*.txt文件
 Index file directories with Python
 '''
 
@@ -102,5 +102,3 @@ def main():
 if __name__ == '__main__':
     main()
     
-    
-
