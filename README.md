@@ -1,7 +1,7 @@
 # CatalogMakingTool
-简易的文件目录创建工具，使用python实现，可为当前文件夹创建一个完整的文件目录，并保存为*.txt格式。
+简易的文件目录创建工具，使用python实现，可为当前文件夹/选定的文件夹创建一个完整的文件目录，并保存为*.txt格式。
 
-A simple file directory creation tool, implemented in python, creates a complete file directory for the current folder and saves it in *.txt format.
+A simple file directory creation tool, implemented in python, creates a complete file directory for the current folder or selected folder and saves it in *.txt format.
 
 ## 程序运行环境(Operating Environment)
 
