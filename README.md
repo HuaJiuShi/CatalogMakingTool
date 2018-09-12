@@ -14,4 +14,4 @@ A simple file directory creation tool, implemented in python, creates a complete
 
 ## 目录文件示例(Catalog Demo)
 
-![image](CatalogMakingTool/images/example01.JPG)
+![image](https://raw.githubusercontent.com/HuaJiuShi/CatalogMakingTool/master/images/example01.JPG)
